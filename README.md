@@ -43,4 +43,19 @@ Moguća proširenja projekta uključuju:
 - Dodavanje unutrašnjosti kuće (npr. stari namještaj, detalji propadanja).  
 - Korištenje HDRI rasvjete za još realističniji izgled.  
 - Dodavanje vremenskih efekata (magla, kiša, oblačno nebo).  
-- Animacija kamere koja obilazi kuću i okoliš.  
+- Animacija kamere koja obilazi kuću i okoliš.
+
+---
+## Video prezentacija
+
+Video prezentacija projekta dostupna je na YouTubeu:  
+https://youtu.be/aR5qiiqb8-A
+
+---
+
+## Projektne datoteke
+Cijeli Blender projekt (.blend datoteka, teksture, rendere) nalazi se na Google Driveu:  
+https://drive.google.com/drive/folders/12TVVrO_a_1TFyWTf8u46admbU-n1JRGb?usp=sharing
+
+
+
